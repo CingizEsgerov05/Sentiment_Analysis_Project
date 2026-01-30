@@ -1,5 +1,9 @@
 # 🎭 Sentiment Analysis - Emotion Classification
 
+## 📋 Project Screenshot
+
+<img width="1152" height="840" alt="Screenshot 2026-01-30 at 10 59 08 PM" src="https://github.com/user-attachments/assets/407efc80-5e96-454a-ae3d-01ce14e789e2" />
+
 ## 📋 Project Overview
 
 This project performs sentiment analysis on text data to classify sentences into **6 emotion categories**:
